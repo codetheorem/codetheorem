@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Hrishikesh 👋
+
+<a href="https://twitter.com/CodeTheorem2"><img src="https://img.icons8.com/clouds/100/000000/twitter-circled.png"/></a> <a href="https://www.linkedin.com/in/hrishikesh-agarwal-794801195/"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a> 
+
+Hi, I'm Hrishikesh Agarwal , a passionate self-taught  web developer from India.
+
+My areas of interest are 
+
+<img src="https://img.icons8.com/color/48/000000/vue-js.png"/>        <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/>  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/golang.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/open-source.png"/>
+
 
 <!--
 **codetheorem/codetheorem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
