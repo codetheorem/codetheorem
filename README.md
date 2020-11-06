@@ -11,7 +11,7 @@ My areas of interest are
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img src="https://img.icons8.com/color/48/000000/firebase.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/>  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/golang.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/open-source.png"/>
 
-![codetheorem's github stats](https://github-readme-stats.vercel.app/api?username=codetheorem&show_icons=true)
+![codetheorem's github stats](https://github-readme-stats.vercel.app/api?username=codetheorem&theme=vue&show_icons=true)
 
 
 <!--
