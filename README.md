@@ -1,6 +1,6 @@
 ### Hi there, I'm Hrishikesh 👋
 
-<a href="https://twitter.com/CodeTheorem2"><img src="https://img.icons8.com/clouds/100/000000/twitter-circled.png"/></a> <a href="https://www.linkedin.com/in/hrishikesh-agarwal-794801195/"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a> 
+<a href="https://twitter.com/CodeTheorem2"><img src="https://img.icons8.com/clouds/100/000000/twitter-circled.png"/></a> <a href="https://www.linkedin.com/in/hrishikesh-agarwal-794801195/"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a> <a href="https://codetheorem.medium.com/"><img src="https://img.icons8.com/ios-filled/2x/medium-logo.png"/></a> 
 
 ## Hi, I'm Hrishikesh Agarwal , a passionate self-taught  web developer from India.
 
